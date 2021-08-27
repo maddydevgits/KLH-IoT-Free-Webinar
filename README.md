@@ -25,6 +25,10 @@ Madhu Parvathaneni alias MS is a IoT Sloutions Architect at madBlocks IoT Group 
 
 <img src="https://raw.githubusercontent.com/madblocksgit/ETAI-2021---VSSUT-11th-aug-iot-session/main/MQTT_1.png" />
 
+# Programs
+1. mqtt_sub.py is a subscriber program to receive data from publisher
+2. arduino program is to control the relay program
+
 # Contact
 Madhu Parvathaneni <br/>
 mad@madblocks.tech <br/>
